@@ -1,0 +1,5 @@
+numpy~=1.24.2
+nibabel~=5.0.1
+matplotlib~=3.7.1
+pathlib~=1.0.1
+tqdm~=4.65.0
