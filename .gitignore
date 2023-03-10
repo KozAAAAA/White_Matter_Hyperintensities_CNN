@@ -1,0 +1,6 @@
+# Big data directories
+WMH_database/
+Slices/
+
+# PyCharm
+.idea/
